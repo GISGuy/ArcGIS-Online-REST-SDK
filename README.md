@@ -34,10 +34,88 @@ Implemented REST API services:
 
 Compile and run Demo project.
 
+## Available REST API services
+
+==== User token and information ====
+
+GenerateUserToken
+
+GetUserInfo
+
+GetMyServiceList
+
+GetOrgServiceList
+
+GetServiceInfo
+
+====================================
+
+==== Feature service operations ====
+
+FeatureService_AddFeatures
+
+FeatureService_UpdateFeatures
+
+FeatureService_DeleteFeatures
+
+FeatureService_Layer_Query
+
+====================================
+
+## Under development REST API services
+
+==== Feature Service Administering ====
+
+FeatureService_Definition_Add
+
+FeatureService_Definition_Delete
+
+FeatureService_Definition_Update
+
+FeatureService_Definition_Refresh
+
+FeatureService_Definition_Status
+
+====================================
+
+==== Feature Service Layer Administering ====
+
+FeatureService_Definition_Info
+
+FeatureService_Layer_Definition_Add
+
+FeatureService_Layer_Definition_Delete
+
+FeatureService_Layer_Definition_Update
+
+FeatureService_Layer_Definition_Refresh
+
+====================================
+
+==== Map Service Administering ====
+
+MapService_Edit
+
+MapService_Refresh
+
+MapService_Status
+
+====================================
+
+==== Map Administering ====
+
+WebMap_Info
+
+WebMap_Update
+
+WebMap_Delete
+
+====================================
+
 ## API Reference
 
 Will be added later.
 
 ## License
 
-MIT License
+ArcGIS Online REST API in C# is available under the MIT license.
