@@ -1,0 +1,5 @@
+F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.csprojResolveAssemblyReference.cache
+F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online REST SDK.dll
+F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online REST SDK.pdb
+F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.dll
+F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.pdb
