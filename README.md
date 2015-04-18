@@ -19,9 +19,20 @@ List<ServiceItem> _serviceItemList = _AGOL_Services.GetOrgServiceList(out _AGOL_
 ```
 
 ```
-//Query user's orgnization's service list
-AGOL_Error _AGOL_Error = null;
-List<ServiceItem> _serviceItemList = _AGOL_Services.GetOrgServiceList(out _AGOL_Error);
+//Add features to specific feature service
+AGOL_Error error = null;
+List<Feature> features = new List<Feature>();
+
+Feature feature = new Feature();
+feature.geometry = new Geometry();
+feature.geometry.x = 23.23;
+feature.geometry.y = 31.5;
+feature.attributes = new Attributes();
+((Attributes)feature.attributes).Junction_MOID = @"Testing";
+
+features.Add(feature);
+
+AddFeaturesResult result = _AGOL_Services.FeatureService_AddFeatures(@"http://services1.arcgis.com/xxxx/arcgis/rest/services/xxxxx/FeatureServer", 0, features, out error);
 ```
 
 ## Screenshot
