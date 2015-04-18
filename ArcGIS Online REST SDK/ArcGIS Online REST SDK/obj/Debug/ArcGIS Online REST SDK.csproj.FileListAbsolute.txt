@@ -3,3 +3,8 @@ F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online 
 F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online REST SDK.pdb
 F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.dll
 F:\VS2010\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online REST SDK.dll
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\ArcGIS Online REST SDK\bin\Debug\ArcGIS Online REST SDK.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.csprojResolveAssemblyReference.cache
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.dll
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\ArcGIS Online REST SDK\obj\Debug\ArcGIS Online REST SDK.pdb

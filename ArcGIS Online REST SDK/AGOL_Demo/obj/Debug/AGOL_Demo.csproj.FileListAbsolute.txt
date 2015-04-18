@@ -9,3 +9,14 @@ F:\VS2010\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.exe
 F:\VS2010\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.pdb
 F:\VS2010\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\ArcGIS Online REST SDK.dll
 F:\VS2010\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\ArcGIS Online REST SDK.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\AGOL_Demo.exe.config
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.exe
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\AGOL_Demo.exe
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\AGOL_Demo.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\ArcGIS Online REST SDK.dll
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\bin\Debug\ArcGIS Online REST SDK.pdb
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.csprojResolveAssemblyReference.cache
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.Main.resources
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.Properties.Resources.resources
+F:\GitHub\ArcGIS-Online-REST-SDK\ArcGIS Online REST SDK\AGOL_Demo\obj\Debug\AGOL_Demo.csproj.GenerateResource.Cache

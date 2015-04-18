@@ -110,16 +110,6 @@ namespace AGOL_Demo
         
         private void bt_listServices_Click(object sender, EventArgs e)
         {
-            AGOL_Error error = null;
-            List<Feature> features = new List<Feature>();
-
-
-
-            QueryResult a = _AGOL_Services.FeatureService_Layer_Query(@"http://services1.arcgis.com/LjXACVRBffrUtGL8/arcgis/rest/services/InfoWater_SCADAWatch/FeatureServer", 0, "1=1", out error, false, true, true);
-
-
-            string b = a.ToString();
-            return;
             lv_services.Items.Clear();
 
             Log();
